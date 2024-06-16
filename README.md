@@ -35,7 +35,7 @@ matplotlib
 ### Example Analysis
 The notebook includes steps to:
 
-Load biodiversity data from CSV files.
-Clean and preprocess the data.
-Perform quantitative analysis to understand species distribution across parks.
-Visualize the data to highlight important trends and patterns.
+- Load biodiversity data from CSV files.
+- Clean and preprocess the data.
+- Perform quantitative analysis to understand species distribution across parks.
+- Visualize the data to highlight important trends and patterns.
